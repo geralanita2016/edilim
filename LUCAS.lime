@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<lim version="3.26">
+    <config>
+        <recursos>$Z:\home\aluno\rede\2019\TARDE\1B-LILIAN\edilim_pt\</recursos>
+          <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+          <cortexto>000000</cortexto>
+          <informe>0</informe>
+          <botonson>0</botonson>
+          <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+    </config>
+    <libro>
+            <paxina id="1" >
+            <tipo>4</tipo>
+            <modo>1</modo>
+            <sopa enun="LUCAS">LUCAS</sopa>
+            <sopa enun="LÃ">LÃ</sopa>
+            <sopa enun="UVA">UVA</sopa>
+            <sopa enun="CASA">CASA</sopa>
+            <sopa enun="AMOR">AMOR</sopa>
+            <sopa enun="SO">SO</sopa>
+            <enunciado>1</enunciado>
+            <colorea>0</colorea>
+            <cadro>0</cadro>
+              <fondo>ABCDEFGHIJKLMNOPQRSTUVWXYZ</fondo>
+          </paxina>
+    </libro>
+</lim>

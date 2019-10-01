@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<lim version="3.26">
+    <config>
+        <recursos>$Z:\home\aluno\rede\2019\TARDE\1B-LILIAN\edilim_pt\</recursos>
+          <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+          <cortexto>000000</cortexto>
+          <informe>0</informe>
+          <botonson>0</botonson>
+          <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+    </config>
+    <libro>
+            <paxina id="1" >
+            <tipo>4</tipo>
+            <cabeceira>SOPA DE LETRAS PRODUZIDAS PELO 1º ANO B</cabeceira>
+            <modo>1</modo>
+            <sopa enun="ALICE">ALICE</sopa>
+            <sopa enun="ANO">ANO</sopa>
+            <sopa enun="LUA">LUA</sopa>
+            <sopa enun="IVO">IVO</sopa>
+            <sopa enun="CEU">CEU</sopa>
+            <enunciado>1</enunciado>
+            <colorea>0</colorea>
+            <cadro>0</cadro>
+              <fondo>ABCDEFGHIJJKLMNOPQRSTUVWXYZ</fondo>
+          </paxina>
+            <paxina id="2" >
+            <tipo>4</tipo>
+            <modo>1</modo>
+            <sopa enun="VINICIUS">VINICIUS</sopa>
+            <sopa enun="VACA">VACA</sopa>
+            <sopa enun="ILHA">ILHA</sopa>
+            <sopa enun="NUVEM">NUVEM</sopa>
+            <sopa enun="IGREJA">IGREJA</sopa>
+            <sopa enun="CUCA">CUCA</sopa>
+            <sopa enun="UVA">UVA</sopa>
+            <sopa enun="SAPO">SAPO</sopa>
+            <enunciado>1</enunciado>
+            <colorea>0</colorea>
+            <cadro>0</cadro>
+              <fondo>ABCDEFGHIJKLMNOPQRSTUVWXYZ</fondo>
+          </paxina>
+            <paxina id="3" >
+            <tipo>4</tipo>
+            <modo>1</modo>
+            <sopa enun="TAYGON">TAYGON</sopa>
+            <sopa enun="TATU">TATU</sopa>
+            <sopa enun="ANO">ANO</sopa>
+            <sopa enun="YURI">YURI</sopa>
+            <sopa enun="GATO">GATO</sopa>
+            <sopa enun="NAVIO">NAVIO</sopa>
+            <enunciado>1</enunciado>
+            <colorea>0</colorea>
+            <cadro>0</cadro>
+              <fondo>ABCDEFGHIJKLMNOPQRSTUVWXYZ</fondo>
+          </paxina>
+            <paxina id="4" >
+            <tipo>4</tipo>
+            <modo>1</modo>
+            <sopa enun="SOPHIA">SOPSA</sopa>
+            <sopa enun="SAPO">SAPO</sopa>
+            <sopa enun="OVO">OVO</sopa>
+            <sopa enun="PATO">PATO</sopa>
+            <sopa enun="HEROI">HEROI</sopa>
+            <sopa enun="ICA">ICA</sopa>
+            <sopa enun="ABA">ABA</sopa>
+            <enunciado>1</enunciado>
+            <colorea>0</colorea>
+            <cadro>0</cadro>
+              <fondo>ABCDEFGHIJKLMNOPQRSTUVWXYZ</fondo>
+          </paxina>
+            <paxina id="5" >
+            <tipo>4</tipo>
+            <modo>1</modo>
+            <sopa enun="REBECA">REBECA</sopa>
+            <sopa enun="RUA">RUA</sopa>
+            <sopa enun="ELE">ELE</sopa>
+            <sopa enun="BOLA">BOLA</sopa>
+            <sopa enun="ELA">ELA</sopa>
+            <sopa enun="CASA">CASA</sopa>
+            <sopa enun="VACA">VACA</sopa>
+            <enunciado>1</enunciado>
+            <colorea>0</colorea>
+            <cadro>0</cadro>
+              <fondo>ABCDEFGHIJKLMNOPQRSTUVWXYZ</fondo>
+          </paxina>
+            <paxina id="6" >
+            <tipo>4</tipo>
+            <modo>1</modo>
+            <sopa enun="RAYANE">RAYANE</sopa>
+            <sopa enun="RUA">RUA</sopa>
+            <sopa enun="ANA">ANA</sopa>
+            <sopa enun="YUIRI">YURI</sopa>
+            <sopa enun="AI">AI</sopa>
+            <sopa enun="NAVIO">NAVIO</sopa>
+            <sopa enun="ELE">ELE</sopa>
+            <enunciado>1</enunciado>
+            <colorea>0</colorea>
+            <cadro>0</cadro>
+              <fondo>ABCDEFGHIJKLMNOPQRSTUVWXYZ</fondo>
+          </paxina>
+            <paxina id="7" >
+            <tipo>4</tipo>
+            <modo>1</modo>
+            <sopa enun="PEDRO">PEDRO</sopa>
+            <sopa enun="PATO">PATO</sopa>
+            <sopa enun="EDUARDO">EDUARDO</sopa>
+            <sopa enun="DADO">DADO</sopa>
+            <sopa enun="RAIO">RAIO</sopa>
+            <sopa enun=" "> </sopa>
+            <enunciado>0</enunciado>
+            <colorea>0</colorea>
+            <cadro>0</cadro>
+              <fondo>ABCDEFGHIJKLMNOPQRSTUVWXYZ</fondo>
+          </paxina>
+            <paxina id="8" >
+            <tipo>4</tipo>
+            <modo>1</modo>
+            <sopa enun="MATHEUS">MATHEUS</sopa>
+            <sopa enun="MAÇA">MAÇA</sopa>
+            <sopa enun="ABELHA">ABELHA</sopa>
+            <sopa enun="TALCO">TALCO</sopa>
+            <sopa enun="HELICÓPTERO">HELICÓPTERO</sopa>
+            <sopa enun="ELEFANTE">ELEFANTE</sopa>
+            <sopa enun="UVA">UVA</sopa>
+            <sopa enun="SAPO">SAPO</sopa>
+            <enunciado>1</enunciado>
+            <colorea>0</colorea>
+            <cadro>0</cadro>
+              <fondo>ABCDEFGHIJKLMNOPQRSTUWXYZ</fondo>
+          </paxina>
+            <paxina id="9" >
+            <tipo>4</tipo>
+            <modo>1</modo>
+            <sopa enun="MATHEUS">MATHEUS</sopa>
+            <sopa enun="MAÇA">MAÇA</sopa>
+            <sopa enun="ABELHA">ABELHA</sopa>
+            <sopa enun="TALCO">TALCO</sopa>
+            <sopa enun="HELICÓPTERO">HELICÓPTERO</sopa>
+            <sopa enun="ELEFANTE">ELEFANTE</sopa>
+            <sopa enun="UVA">UVA</sopa>
+            <sopa enun="SAPO">SAPO</sopa>
+            <enunciado>1</enunciado>
+            <colorea>0</colorea>
+            <cadro>0</cadro>
+              <fondo>ABCDEFGHIJKLMNOPQRSTUWXYZ</fondo>
+          </paxina>
+            <paxina id="10" >
+            <tipo>4</tipo>
+            <modo>1</modo>
+            <sopa enun="MATHEUS">MATHEUS</sopa>
+            <sopa enun="MAÇA">MAÇA</sopa>
+            <sopa enun="ABELHA">ABEILHA</sopa>
+            <sopa enun="TREM">TREM</sopa>
+            <sopa enun="HELICÓPTERO">HELICÓPTERO</sopa>
+            <sopa enun="ELEFANTE">ELEFANTE</sopa>
+            <sopa enun="UVA">UVA</sopa>
+            <sopa enun="SAPO">SAPO</sopa>
+            <enunciado>1</enunciado>
+            <colorea>0</colorea>
+            <cadro>0</cadro>
+              <fondo>ABCDEFGHIJKLMNOPQRSTUVWXYZ</fondo>
+          </paxina>
+            <paxina id="11" >
+            <tipo>4</tipo>
+            <modo>1</modo>
+            <sopa enun="MARCOS">MARCOS</sopa>
+            <sopa enun="MAR">MAR</sopa>
+            <sopa enun="ABELHA">ABELHA</sopa>
+            <sopa enun="RATO">RATO</sopa>
+            <sopa enun="CORAÇAO">CORAÇAO</sopa>
+            <sopa enun="OVO">OVO</sopa>
+            <sopa enun="SAPO">SAPO</sopa>
+            <enunciado>1</enunciado>
+            <colorea>0</colorea>
+            <cadro>0</cadro>
+              <fondo>ABCDEFGHIJKLMNOPQRSTUVWYZ</fondo>
+          </paxina>
+            <paxina id="12" >
+            <tipo>4</tipo>
+            <modo>1</modo>
+            <sopa enun="MANUELLA">MANUELLA</sopa>
+            <sopa enun="MALA">MALA</sopa>
+            <sopa enun="MAMAE">MAMAE</sopa>
+            <sopa enun="NICO">NICO</sopa>
+            <sopa enun="UVA">UVA</sopa>
+            <sopa enun="ELE">ELE</sopa>
+            <sopa enun="LUA">LUA</sopa>
+            <sopa enun="LUVA">LUVA</sopa>
+            <enunciado>0</enunciado>
+            <colorea>0</colorea>
+            <cadro>0</cadro>
+              <fondo>ABCDEFGHIJKLMNOPQRSTUVWXYZ</fondo>
+          </paxina>
+            <paxina id="13" >
+            <tipo>4</tipo>
+            <modo>1</modo>
+            <sopa enun="LUCAS">LUCAS</sopa>
+            <sopa enun="LÃ">LÃ</sopa>
+            <sopa enun="UVA">UVA</sopa>
+            <sopa enun="CASA">CASA</sopa>
+            <sopa enun="AMOR">AMOR</sopa>
+            <sopa enun="SO">SO</sopa>
+            <enunciado>1</enunciado>
+            <colorea>0</colorea>
+            <cadro>0</cadro>
+              <fondo>ABCDEFGHIJKLMNOPQRSTUVWXYZ</fondo>
+          </paxina>
+            <paxina id="14" >
+            <tipo>4</tipo>
+            <modo>1</modo>
+            <sopa enun="LUCAS">LUCAS</sopa>
+            <sopa enun="LÃ">LÃ</sopa>
+            <sopa enun="UVA">UVA</sopa>
+            <sopa enun="CASA">CASA</sopa>
+            <sopa enun="AMOR">AMOR</sopa>
+            <sopa enun="SO">SO</sopa>
+            <enunciado>1</enunciado>
+            <colorea>0</colorea>
+            <cadro>0</cadro>
+              <fondo>ABCDEFGHIJKLMNOPQRSTUVWXYZ</fondo>
+          </paxina>
+            <paxina id="15" >
+            <tipo>4</tipo>
+            <modo>1</modo>
+            <sopa enun="LAURA">LAURA</sopa>
+            <sopa enun="LUA">LUA</sopa>
+            <sopa enun="ABA">ABA</sopa>
+            <sopa enun="UVA">UVA</sopa>
+            <sopa enun="RUA">RUA</sopa>
+            <sopa enun="AMA">AMA</sopa>
+            <enunciado>1</enunciado>
+            <colorea>0</colorea>
+            <cadro>0</cadro>
+              <fondo>ABCDEFGHIJKLMNOPQRSTUVWXYZ</fondo>
+          </paxina>
+            <paxina id="16" >
+            <tipo>4</tipo>
+            <modo>1</modo>
+            <sopa enun="KENNEDY">KENNEDY</sopa>
+            <sopa enun="KARATE">KARATE</sopa>
+            <sopa enun="ELEFANTE">ELEFANTE</sopa>
+            <sopa enun="NAVIO">NAVIO</sopa>
+            <sopa enun="NÃO">NÃO</sopa>
+            <enunciado>1</enunciado>
+            <colorea>0</colorea>
+            <cadro>0</cadro>
+              <fondo>ABCDEFGHIJKLMNOPQRSTUVWXYZ</fondo>
+          </paxina>
+            <paxina id="17" >
+            <tipo>4</tipo>
+            <modo>1</modo>
+            <sopa enun="JOAO">JOAO</sopa>
+            <sopa enun="JARRA">JARRA</sopa>
+            <sopa enun="OVO">OVO</sopa>
+            <sopa enun="AVIAO">AVIAO</sopa>
+            <sopa enun="OVELHA">OVELHA</sopa>
+            <enunciado>1</enunciado>
+            <colorea>0</colorea>
+            <cadro>0</cadro>
+              <fondo>ABCDEFGHIJKLMNOPQRSTUVWXYZ</fondo>
+          </paxina>
+            <paxina id="18" >
+            <tipo>4</tipo>
+            <modo>1</modo>
+            <sopa enun="GUILHERME">GUILHERME</sopa>
+            <sopa enun="GOL">GOL</sopa>
+            <sopa enun="UVA">UVA</sopa>
+            <sopa enun="VIVA">VIVA</sopa>
+            <sopa enun="LUA">LUA</sopa>
+            <sopa enun="HOJE">HOJE</sopa>
+            <sopa enun="ELE">ELE</sopa>
+            <sopa enun="RAIO ">RAIO</sopa>
+            <enunciado>1</enunciado>
+            <colorea>0</colorea>
+            <cadro>0</cadro>
+              <fondo>ABCDEFGHIJKLMNOPQRSTUVWXYZ</fondo>
+          </paxina>
+            <paxina id="19" >
+            <tipo>4</tipo>
+            <modo>1</modo>
+            <sopa enun="GUILHERME">GUILHERME</sopa>
+            <sopa enun="GOL">GOL</sopa>
+            <sopa enun="UVA">UVA</sopa>
+            <sopa enun="VIVA">VIVA</sopa>
+            <sopa enun="LUA">LUA</sopa>
+            <sopa enun="HOJE">HOJE</sopa>
+            <sopa enun="ELE">ELE</sopa>
+            <sopa enun="RAIO ">RAIO</sopa>
+            <enunciado>1</enunciado>
+            <colorea>0</colorea>
+            <cadro>0</cadro>
+              <fondo>ABCDEFGHIJKLMNOPQRSTUVWXYZ</fondo>
+          </paxina>
+            <paxina id="20" >
+            <tipo>4</tipo>
+            <cabeceira>+</cabeceira>
+            <modo>1</modo>
+            <sopa enun="EWELIM">EWELIM</sopa>
+            <sopa enun="JULIA">JULIA</sopa>
+            <enunciado>1</enunciado>
+            <colorea>0</colorea>
+            <cadro>0</cadro>
+              <fondo>ABCDEFGHIJKLMNOPQRSTUVWXYZ</fondo>
+          </paxina>
+            <paxina id="21" >
+            <tipo>4</tipo>
+            <modo>1</modo>
+            <sopa enun="DAVI">DAVI</sopa>
+            <sopa enun=" ANO">ANO</sopa>
+            <sopa enun=" OVO">OVO</sopa>
+            <sopa enun="DIA">DIA</sopa>
+            <enunciado>1</enunciado>
+            <colorea>0</colorea>
+            <cadro>0</cadro>
+              <fondo>ABCDEFGIHJKLMNOPQRSTUVWXYZ</fondo>
+          </paxina>
+            <paxina id="22" >
+            <tipo>4</tipo>
+            <modo>1</modo>
+            <sopa enun="CAMILLY">CAMILLY</sopa>
+            <sopa enun="CAVALO">CAVALO</sopa>
+            <sopa enun="MALA">MALA</sopa>
+            <sopa enun="MANUELLA">MANUELLA</sopa>
+            <sopa enun="IGREJA">IGREJA</sopa>
+            <sopa enun="LAURA">LAURA</sopa>
+            <sopa enun="LUA">LUA</sopa>
+            <sopa enun="YASMIM">YASMIM</sopa>
+            <enunciado>1</enunciado>
+            <colorea>0</colorea>
+            <cadro>0</cadro>
+              <fondo>ABCDEFGHIJKLMNOPQRSTUVWXYZ</fondo>
+          </paxina>
+            <paxina id="23" >
+            <tipo>4</tipo>
+            <modo>1</modo>
+            <sopa enun="ARTHUR ">ARTHUR</sopa>
+            <sopa enun="NAVIO">NAVIO</sopa>
+            <sopa enun="RUA">RUA</sopa>
+            <sopa enun="TATU">TATU</sopa>
+            <sopa enun="HOJE">HOJE</sopa>
+            <sopa enun="UVA">UVA</sopa>
+            <sopa enun="RAIO">RAIO</sopa>
+            <enunciado>1</enunciado>
+            <colorea>0</colorea>
+            <cadro>0</cadro>
+              <fondo>ABCDEFGHIJKLNMOPQRST7UVWXYZ</fondo>
+          </paxina>
+            <paxina id="24" >
+            <tipo>4</tipo>
+            <modo>1</modo>
+            <sopa enun="BRENDA">BRENDA</sopa>
+            <sopa enun="OLA">OLA</sopa>
+            <sopa enun="RUA">RUA</sopa>
+            <sopa enun="ELA">ELA</sopa>
+            <sopa enun="NAVIO">NAVIO</sopa>
+            <sopa enun="DADO">DADO</sopa>
+            <sopa enun="VACA">VACA</sopa>
+            <enunciado>1</enunciado>
+            <colorea>0</colorea>
+            <cadro>0</cadro>
+              <fondo>ABCDEFGHIJKLMNOPQRSRTUVWXYZ</fondo>
+          </paxina>
+            <paxina id="25" >
+            <tipo>4</tipo>
+            <modo>1</modo>
+            <sopa enun="BRENDA">BRENDA</sopa>
+            <sopa enun="BOLA">BOLA</sopa>
+            <sopa enun="RUA">RUA</sopa>
+            <sopa enun="ELA">ELA</sopa>
+            <sopa enun="NAVIO">NAVIO</sopa>
+            <sopa enun="DADO">DADO</sopa>
+            <sopa enun="VACA">VACA</sopa>
+            <enunciado>1</enunciado>
+            <colorea>0</colorea>
+            <cadro>0</cadro>
+              <fondo>ABCDEFGHIJKLMNOPQRSTUVWXYZ</fondo>
+          </paxina>
+            <paxina id="26" >
+            <tipo>4</tipo>
+            <modo>1</modo>
+            <sopa enun="JULIA">JULIA</sopa>
+            <sopa enun="JARRA">JARRA</sopa>
+            <sopa enun="UVA">UVA</sopa>
+            <sopa enun="LUA">LUA</sopa>
+            <sopa enun="PIPA">PIPA</sopa>
+            <sopa enun="CASA">CASA</sopa>
+            <enunciado>1</enunciado>
+            <colorea>0</colorea>
+            <cadro>0</cadro>
+              <fondo>ABCDEFGHIJKLMNOPQRSTUVWXYZ</fondo>
+          </paxina>
+    </libro>
+</lim>

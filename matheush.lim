@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<lim version="3.26">
+    <config>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>4</tipo>
+              <modo>1</modo>
+              <sopa enun="MATHEUS">MATHEUS</sopa>
+              <sopa enun="MAÇA">MAÇA</sopa>
+              <sopa enun="ABELHA">ABELHA</sopa>
+              <sopa enun="TALCO">TALCO</sopa>
+              <sopa enun="HELICÓPTERO">HELICÓPTERO</sopa>
+              <sopa enun="ELEFANTE">ELEFANTE</sopa>
+              <sopa enun="UVA">UVA</sopa>
+              <sopa enun="SAPO">SAPO</sopa>
+              <enunciado>1</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+              <fondo>ABCDEFGHIJKLMNOPQRSTUWXYZ</fondo>
+        </paxina>
+    </libro>
+</lim>
